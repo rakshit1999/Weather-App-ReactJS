@@ -4,7 +4,7 @@ form {
 
 form input[name="city"],
 form input[name="country"] {
-    background-color: transparent;
+    background-color: white;
     color: gold;
     border: 0;
     border-bottom: 2px solid whitesmoke;
@@ -12,7 +12,7 @@ form input[name="country"] {
 }
 
 form input:focus {
-    background-color:transparent !important;
+    background-color:white;
     box-shadow:none !important;
 }
 
